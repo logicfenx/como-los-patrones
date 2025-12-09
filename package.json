@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-los-patrones",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-los-patrones",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-los-patrones.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/patrones-de-velas-de-reversion-traders/"
+    },
+    "homepage": "https://bitcu.co/patrones-de-velas-de-reversion-traders/"
+}
